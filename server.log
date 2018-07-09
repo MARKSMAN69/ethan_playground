@@ -10,3 +10,14 @@ Fri, 06 Jul 2018 14:56:39 GMT: 200 GET /Index.html
 Fri, 06 Jul 2018 14:56:40 GMT: 200 GET /server.html
 Fri, 06 Jul 2018 14:56:41 GMT: 200 GET /Index.html
 Fri, 06 Jul 2018 14:56:41 GMT: 200 GET /random.html
+Mon, 09 Jul 2018 10:51:36 GMT: 200 GET /
+Mon, 09 Jul 2018 10:51:36 GMT: 200 GET /favicon.ico
+Mon, 09 Jul 2018 10:51:36 GMT: 200 GET /favicon.ico
+Mon, 09 Jul 2018 10:51:47 GMT: 200 GET /
+Mon, 09 Jul 2018 10:51:47 GMT: 200 GET /favicon.ico
+Mon, 09 Jul 2018 10:51:49 GMT: 200 GET /
+Mon, 09 Jul 2018 10:51:49 GMT: 200 GET /
+Mon, 09 Jul 2018 10:51:50 GMT: 200 GET /favicon.ico
+Mon, 09 Jul 2018 10:51:50 GMT: 200 GET /
+Mon, 09 Jul 2018 10:51:54 GMT: 200 GET /random.html
+Mon, 09 Jul 2018 10:51:55 GMT: 200 GET /favicon.ico
