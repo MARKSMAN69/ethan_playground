@@ -1,0 +1,15 @@
+{
+  "name": "ethan_test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "Server.js",
+  "scripts": {
+    "start": "nodemon ./Server/Server.js"
+  },
+  "author": "Stu Care <mail@stuartcare.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
+}
