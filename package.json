@@ -4,8 +4,9 @@
   "description": "test",
   "main": "Server.js",
   "scripts": {
-    "start": "nodemon ./Server/Server.js"
-  },
+    "start": "nodemon ./Server/Server.js -e html,css,less,js",
+    "lessc":"lessc .\\public\\Styles\\Style.less .\\public\\Styles\\style.css"
+    },
   "author": "Stu Care <mail@stuartcare.com>",
   "license": "MIT",
   "dependencies": {

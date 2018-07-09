@@ -13,6 +13,11 @@ Click + next to powershell below
 
 npm start in the new window to start the server.
 
+
+
+
+npm run <script>  ex. npm run lessc         // runs the script as you've written it in package.json
+
 ###################
 #                 #
 #   GIT & GITHUB  #

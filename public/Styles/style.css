@@ -1,0 +1,18 @@
+.container-fluid {
+  color: #4b454d;
+  font-family: 'Lato';
+}
+.navbar {
+  background: #247BA0;
+}
+.card {
+  margin: 10px;
+}
+.card a {
+  color: #23874A;
+}
+.card .card-title {
+  color: #23874A;
+  text-transform: uppercase;
+  font-weight: 400;
+}
