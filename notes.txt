@@ -1,3 +1,9 @@
+#####################################
+#                                   #
+#   LOCAL TUNNEL (EXTERNAL ACCESS)  #
+#                                   #
+#####################################
+
 npm i -g localtunnel
 
 to start:
@@ -6,3 +12,15 @@ lt --port 3000 --subdomain <whateveryouwanthere>
 Click + next to powershell below 
 
 npm start in the new window to start the server.
+
+###################
+#                 #
+#   GIT & GITHUB  #
+#                 #
+###################
+
+git status                  // shows everything [optional]
+git add <filename>          // adds a filename [optional]
+git add .                   // adds everything
+git commit -m "<message>"   // commits the changes
+git push                    // pushes to the remote
